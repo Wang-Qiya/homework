@@ -1,5 +1,3 @@
-package com.lanshan;
-
 class homework12{
     public boolean isPalindrome(int x) {
 
