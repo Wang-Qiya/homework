@@ -1,7 +1,3 @@
-package com.lanshan;
-
-import java.util.Scanner;
-
 class homework11{
         public int[] twoSum(int[] nums,int target){
                 int[] rst = new int[2];
