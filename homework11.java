@@ -1,4 +1,4 @@
-class homework11{
+class Solution{
         public int[] twoSum(int[] nums,int target){
                 int[] rst = new int[2];
                 int len = nums.length;
