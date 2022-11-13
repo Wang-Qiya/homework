@@ -1,4 +1,4 @@
-class homework12{
+class Solution{
     public boolean isPalindrome(int x) {
 
         String num = x + "";
